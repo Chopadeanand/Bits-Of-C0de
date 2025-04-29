@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://Anandblogs.vercel.app/" target="_blank">Anandblogs.vercel.app</a>
+  <a href="https://https://bits-of-code-86f04.web.app//" target="_blank">Anandblogs.app</a>
 </h2>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.Anand.tech</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="https://bits-of-code-86f04.web.app/" target="_blank">blogs.Anand.tech</a> which features some of my developer blog posts and experiences.<br/>
 
 This project was built using these technologies.
 
